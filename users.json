@@ -1,0 +1,33 @@
+{
+    "6365694950": {
+        "roles": [
+            "admin",
+            "user"
+        ],
+        "username": "@carthecat",
+        "expiry": 999,
+        "createdby": "@carthecat",
+        "concurrent_attacks": 5
+    },
+    "6371035522": {
+        "roles": [
+            "admin",
+            "vip",
+            "user"
+        ],
+        "username": "@denon",
+        "expiry": 999,
+        "createdby": "@carthecat",
+        "concurrent_attacks": 1
+    },
+    "6068446332": {
+        "roles": [
+            "admin",
+            "vip",
+            "user"
+        ],
+        "expiry": 30,
+        "createdby": "@carthecat",
+        "concurrent_attacks": 1
+    }
+}
